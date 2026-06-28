@@ -59,7 +59,9 @@
 
 ## 📌 Featured Projects
 
-### 🤖 AI Quality & LLM Evaluation
+> 🌟 **Where I'm heading:** AI quality & LLM evaluation — backed by a deep test-automation foundation across web, API, mobile & performance.
+
+### 🤖 AI Quality & LLM Evaluation &nbsp;`⭐ focus area`
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
@@ -74,7 +76,7 @@
 | [**Cypress GraphQL**](https://github.com/jaiswalkpraveen/graphQL-Test-Automation) | ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square) | GraphQL API testing with Cypress |
 | [**Selenium Flight Booking**](https://github.com/jaiswalkpraveen/FlightBookingTestAutomationPOM) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square) | Page Object Model framework for flight booking |
 
-### 🔌 API & Backend
+### 🔌 API & Backend &nbsp;`breadth`
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
