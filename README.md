@@ -2,7 +2,9 @@
 
 # Hi there, I'm Praveen Jaiswal 👋
 
-### 🚀 SDET | Test Automation Expert | Building Quality at Scale
+### 🤖 AI SDET | LLM Evaluation & Test Automation | Building Quality for AI at Scale
+
+*9+ years in test automation, now evolving from SDET → **AI SDET**: bringing the same rigor to LLM output quality, evals, and AI-driven systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiswalkpraveen/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaiswalkpraveen)
@@ -13,10 +15,11 @@
 
 ## 🎯 About Me
 
-- 🔭 **SDET** transitioning to **Software Development Engineer**
-- 🌱 Currently deepening my skills in **Spring Boot** and **System Design**
-- 💡 Passionate about building robust test automation frameworks & scalable backend systems
-- ⚡ Fun fact: I automate everything - Web, Mobile, API, Desktop, and even Load Tests!
+- 🔭 **SDET** evolving into an **AI SDET** — applying 9+ years of test-automation discipline to **LLM output quality and evaluation**
+- 🌱 Currently going deep on **LLM evals**: LLM-as-judge patterns, rubric design, and regression tracking for AI output (with **LangChain**)
+- 🧪 I treat AI like any other system under test — defensible rubrics, deterministic baselines, and regressions caught *before* they reach users
+- 💡 Strong foundation across **Web, Mobile, API, Desktop & Performance** automation and **CI/CD** at scale
+- ⚡ Fun fact: I automate everything — and now I'm teaching machines to grade machines
 
 ---
 
@@ -26,6 +29,7 @@
 
 | Category | Technologies |
 |----------|-------------|
+| **AI / LLM Quality** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LLM-as-Judge](https://img.shields.io/badge/LLM--as--Judge-412991?style=flat-square&logo=openai&logoColor=white) ![Rubric Evals](https://img.shields.io/badge/Rubric_Evals-FF6F61?style=flat-square&logo=checkmarx&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) |
 | **Web** | ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 | **Mobile** | ![Appium](https://img.shields.io/badge/Appium-663399?style=flat-square&logo=appium&logoColor=white) |
 | **API** | ![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=flat-square&logo=java&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
@@ -55,6 +59,12 @@
 
 ## 📌 Featured Projects
 
+### 🤖 AI Quality & LLM Evaluation
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**card-eval** ⭐](https://github.com/jaiswalkpraveen/card-eval) | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white) | **LLM-as-judge eval harness** scoring AI-generated greeting cards against a custom rubric (prompt fidelity, text accuracy, style consistency, aesthetic). Baseline-based **regression flagging** + a **Playwright e2e** test linking rendered output to eval scores. Judge discrimination validated with known-bad inputs. |
+
 ### 🎭 Web Automation
 
 | Project | Tech Stack | Description |
@@ -81,12 +91,12 @@
 ## 🏆 Skills Proficiency
 
 ```
-Web Automation    ████████████████████░   95%
-API Testing       ███████████████████░░   90%
-Mobile Testing    ████████████████░░░░░   80%
-Performance       ████████████████░░░░░   80%
-Backend (Java)    ███████████████░░░░░░   75%
-CI/CD             ████████████████████░   90%
+Web Automation ████████████████████░ 95%
+CI/CD ████████████████████░ 90%
+API Testing ███████████████████░░ 90%
+Mobile Testing ████████████████░░░░░ 80%
+Performance ████████████████░░░░░ 80%
+LLM Evals (LangChain) ███████████░░░░░░░░░░ 55% (actively leveling up)
 ```
 
 ---
@@ -95,7 +105,7 @@ CI/CD             ████████████████████�
 
 ### 💬 Let's Connect!
 
-*Open to collaborations on test automation frameworks and backend projects*
+*Open to collaborations on LLM evaluation, AI quality, and test automation frameworks*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiswalkpraveen/)
 
