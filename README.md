@@ -4,7 +4,7 @@
 
 ### 🤖 AI SDET | LLM Evaluation & Test Automation | Building Quality for AI at Scale
 
-*9+ years in test automation, now evolving from SDET → **AI SDET**: bringing the same rigor to LLM output quality, evals, and AI-driven systems.*
+*10+ years in test automation, now evolving from SDET → **AI SDET**: bringing the same rigor to LLM output quality, evals, and AI-driven systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiswalkpraveen/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaiswalkpraveen)
@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-- 🔭 **SDET** evolving into an **AI SDET** — applying 9+ years of test-automation discipline to **LLM output quality and evaluation**
+- 🔭 **SDET** evolving into an **AI SDET** — applying 10+ years of test-automation discipline to **LLM output quality and evaluation**
 - 🌱 Currently going deep on **LLM evals**: LLM-as-judge patterns, rubric design, and regression tracking for AI output (with **LangChain**)
 - 🧪 I treat AI like any other system under test — defensible rubrics, deterministic baselines, and regressions caught *before* they reach users
 - 💡 Strong foundation across **Web, Mobile, API, Desktop & Performance** automation and **CI/CD** at scale
