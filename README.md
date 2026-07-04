@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Praveen Jaiswal 👋
+# Praveen Jaiswal
 
-### 🤖 AI SDET | LLM Evaluation & Test Automation | Building Quality for AI at Scale
+### AI SDET | LLM Evaluation & Test Automation | Building Quality for AI at Scale
 
-*10+ years in test automation, now evolving from SDET → **AI SDET**: bringing the same rigor to LLM output quality, evals, and AI-driven systems.*
+*10+ years in test automation, now evolving from SDET to **AI SDET**: bringing the same rigor to LLM output quality, evals, and AI-driven systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiswalkpraveen/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaiswalkpraveen)
@@ -13,17 +13,16 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🔭 **SDET** evolving into an **AI SDET** — applying 10+ years of test-automation discipline to **LLM output quality and evaluation**
-- 🌱 Currently going deep on **LLM evals**: LLM-as-judge patterns, rubric design, and regression tracking for AI output (with **LangChain**)
-- 🧪 I treat AI like any other system under test — defensible rubrics, deterministic baselines, and regressions caught *before* they reach users
-- 💡 Strong foundation across **Web, Mobile, API, Desktop & Performance** automation and **CI/CD** at scale
-- ⚡ Fun fact: I automate everything — and now I'm teaching machines to grade machines
+- **SDET** evolving into an **AI SDET** — applying 10+ years of test-automation discipline to **LLM output quality and evaluation**
+- Currently going deep on **LLM evals**: LLM-as-judge patterns, rubric design, regression tracking, and AI-native tooling for test-failure triage
+- I treat AI like any other system under test — defensible rubrics, deterministic baselines, and regressions caught *before* they reach users
+- Strong foundation across **Web, Mobile, API, Desktop & Performance** automation and **CI/CD** at scale
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Test Automation
 
@@ -57,17 +56,18 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-> 🌟 **Where I'm heading:** AI quality & LLM evaluation — backed by a deep test-automation foundation across web, API, mobile & performance.
+> **Where I'm heading:** AI quality & LLM evaluation — backed by a deep test-automation foundation across web, API, mobile & performance.
 
-### 🤖 AI Quality & LLM Evaluation &nbsp;`⭐ focus area`
+### AI Quality & LLM Evaluation (focus area)
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [**card-eval** ⭐](https://github.com/jaiswalkpraveen/card-eval) | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white) | **LLM-as-judge eval harness** scoring AI-generated greeting cards against a custom rubric (prompt fidelity, text accuracy, style consistency, aesthetic). Baseline-based **regression flagging** + a **Playwright e2e** test linking rendered output to eval scores. Judge discrimination validated with known-bad inputs. |
+| [**testlens**](https://github.com/jaiswalkpraveen/testlens) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) | **AI-native test-failure triage platform.** Ingests Playwright reports and uses an LLM to explain, in plain English, why each test failed and what to check first. Provider-agnostic **gateway seam** (swappable LLM behind a Protocol, `FakeGateway` for network-free tests), exposed via both **CLI** and **FastAPI** HTTP API. Roadmap builds toward an eval harness, RAG, flaky detection, and a debugging agent. |
+| [**card-eval**](https://github.com/jaiswalkpraveen/card-eval) | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white) | **LLM-as-judge eval harness** scoring AI-generated greeting cards against a custom rubric (prompt fidelity, text accuracy, style consistency, aesthetic). Baseline-based **regression flagging**, a **Playwright e2e** test linking rendered output to eval scores, and CI (mock mode) plus an on-demand real-eval report published to GitHub Pages. Judge discrimination validated with known-bad inputs. |
 
-### 🎭 Web Automation
+### Web Automation
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
@@ -76,21 +76,21 @@
 | [**Cypress GraphQL**](https://github.com/jaiswalkpraveen/graphQL-Test-Automation) | ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square) | GraphQL API testing with Cypress |
 | [**Selenium Flight Booking**](https://github.com/jaiswalkpraveen/FlightBookingTestAutomationPOM) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square) | Page Object Model framework for flight booking |
 
-### 🔌 API & Backend &nbsp;`breadth`
+### API & Backend
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | [**REST API Automation**](https://github.com/jaiswalkpraveen/APIAutomation_RestAssured) | ![RestAssured](https://img.shields.io/badge/-RestAssured-6DB33F?style=flat-square) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square) | API testing framework with RestAssured |
 | [**Spring Boot Learning**](https://github.com/jaiswalkpraveen/spring-boot-rest-daily-learning) | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square) | Daily learning journal for Spring Boot REST APIs |
 
-### ⚡ Performance Testing
+### Performance Testing
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | [**JMeter Docker**](https://github.com/jaiswalkpraveen/LoadTest_jMeterDocker) | ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square) | Dockerized JMeter load testing setup |
 
 
-## 🏆 Skills Proficiency
+## Skills Proficiency
 
 ```
 Web Automation ████████████████████░ 95%
@@ -105,7 +105,7 @@ LLM Evals (LangChain) ███████████░░░░░░░░�
 
 <div align="center">
 
-### 💬 Let's Connect!
+### Let's Connect
 
 *Open to collaborations on LLM evaluation, AI quality, and test automation frameworks*
 
